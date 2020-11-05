@@ -1,6 +1,4 @@
-# Introduction
-
-## 仓库说明
+# 说明
 
 本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原仓库。
 
@@ -8,6 +6,8 @@
 * GitBook 完整阅读：[进入](https://renie.gitbook.io/on-java-8)
 
 ## 《On Java 8》中文版
+
+以下内容是原仓库的描述。
 
 ### 书籍简介
 
@@ -61,6 +61,8 @@
 * [ ] [附录:成为一名程序员](appendix-becoming-a-programmer.md)
 
 ### 原书资料
+
+
 
 * 作者: Bruce Eckel
 * ISBN: 9780981872520
