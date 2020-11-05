@@ -1,8 +1,8 @@
-### [封面](./00-On-Java-8.md)
+### [封面](./00-on-java-8.md)
 
-### [前言](./00-Preface.md)
+### [前言](./00-preface.md)
 
-### [简介](./00-Introduction.md)
+### [简介](./00-introduction.md)
 
 ### [第一章 对象的概念](./01-What-is-an-Object.md)
   * [抽象](./01-What-is-an-Object.md#抽象)
