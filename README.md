@@ -17,8 +17,8 @@
 
 ### 翻译进度
 
-* [x] [前言](00-Preface.md)
-* [x] [简介](00-Introduction.md)
+* [x] [前言](00-preface.md)
+* [x] [简介](00-introduction.md)
 * [x] [第一章 对象的概念](01-what-is-an-object.md)
 * [x] [第二章 安装 Java 和本书用例](02-installing-java-and-the-book-examples.md)
 * [x] [第三章 万物皆对象](03-objects-everywhere.md)
