@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
 * [封面](00-on-java-8.md)
 * [前言](00-preface.md)
 * [简介](00-introduction.md)
