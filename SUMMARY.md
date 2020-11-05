@@ -46,3 +46,4 @@
 * [附录:理解equals和hashCode方法](appendix-understanding-equals-and-hashcode.md)
 * [词汇表](glossary.md)
 
+<style>.reset-3c756112--footer-68e6f18c{display: none !important;}</style>
