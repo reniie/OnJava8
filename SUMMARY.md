@@ -1,5 +1,6 @@
 # Table of contents
 
+* [项目说明](README.md)
 * [封面](00-on-java-8.md)
 * [前言](00-preface.md)
 * [简介](00-introduction.md)
@@ -44,4 +45,3 @@
 * [附录:C++和Java的优良传统](appendix-the-positive-legacy-of-c-plus-plus-and-java.md)
 * [附录:理解equals和hashCode方法](appendix-understanding-equals-and-hashcode.md)
 * [词汇表](glossary.md)
-
