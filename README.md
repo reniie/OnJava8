@@ -2,8 +2,7 @@
 
 本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原仓库。
 
-* GitHub 阅读：[进入](https://github.com/reniie/OnJava8/tree/master/SUMMARY_GITHUB.md)
-* GitBook 阅读：[进入](https://renie.gitbook.io/on-java-8)
+* [进入 GitBook 阅读](https://renie.gitbook.io/on-java-8)
 
 ## 《On Java 8》中文版
 
