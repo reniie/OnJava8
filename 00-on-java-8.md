@@ -1,8 +1,8 @@
 # 封面
 
-![cover](https://raw.githubusercontent.com/LingCoder/OnJava8/master/docs/images/cover.jpg)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/cover.jpg)
 
- On Java 8
+On Java 8
 
 Bruce Eckel MindView LLC2017©MindView LLC 版权所有
 

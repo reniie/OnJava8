@@ -2,7 +2,7 @@
 
 本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原仓库。
 
-* 目录阅读：[进入](https://github.com/reniie/OnJava8/tree/7b031f1bd18e3ee8e8a0494c9ec7ac8781c33dc3/SUMMARY.md)
+* 目录阅读：[进入](https://github.com/reniie/OnJava8/SUMMARY.md)
 * GitBook 完整阅读：[进入](https://renie.gitbook.io/on-java-8)
 
 ## 《On Java 8》中文版
@@ -17,8 +17,8 @@
 
 ### 翻译进度
 
-* [x] [前言](https://github.com/reniie/OnJava8/tree/7b031f1bd18e3ee8e8a0494c9ec7ac8781c33dc3/book/00-Preface.md)
-* [x] [简介](https://github.com/reniie/OnJava8/tree/7b031f1bd18e3ee8e8a0494c9ec7ac8781c33dc3/book/00-Introduction.md)
+* [x] [前言](00-Preface.md)
+* [x] [简介](00-Introduction.md)
 * [x] [第一章 对象的概念](01-what-is-an-object.md)
 * [x] [第二章 安装 Java 和本书用例](02-installing-java-and-the-book-examples.md)
 * [x] [第三章 万物皆对象](03-objects-everywhere.md)
@@ -57,12 +57,12 @@
 * [x] [附录:数据压缩](appendix-data-compression.md)
 * [x] [附录:对象序列化](appendix-object-serialization.md)
 * [ ] [附录:静态语言类型检查](appendix-benefits-and-costs-of-static-type-checking.md)
-* [x] [附录:C++ 和 Java 的优良传统](https://github.com/reniie/OnJava8/tree/7b031f1bd18e3ee8e8a0494c9ec7ac8781c33dc3/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md)
+* [x] [附录:C++ 和 Java 的优良传统](appendix-the-positive-legacy-of-c-plus-plus-and-java.md)
 * [ ] [附录:成为一名程序员](appendix-becoming-a-programmer.md)
 
 ### 原书资料
 
-
+![](./images/cover_small.jpg)
 
 * 作者: Bruce Eckel
 * ISBN: 9780981872520
