@@ -1770,5 +1770,5 @@ Serializable]
 
 尽管存在这些问题，但 Java 集合仍是在日常工作中使用的基本工具，它可以使程序更简洁、更强大、更有效。你可能需要一段时间才能熟悉集合类库的某些方面，但我想你很快就会找到自己的路子，来获得和使用这个类库中的类。
 
-![collection](.gitbook/assets/collection.png) ![map](.gitbook/assets/map.png)
+![](.gitbook/assets/collection.png) ![](.gitbook/assets/map.png)
 
