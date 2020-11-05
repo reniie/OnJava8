@@ -1681,7 +1681,7 @@ Java 提供了许多保存对象的方法：
 
 浏览一下Java集合的简图（不包含抽象类或遗留组件）会很有帮助。这里仅包括在一般情况下会碰到的接口和类。（译者注：下图为原著PDF中的截图，可能由于未知原因存在问题。这里可参考译者绘制版）
 
-![](./images/simple-collection-taxonomy.png)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/simple-collection-taxonomy.png)
 
 #### 简单集合分类
 
@@ -1770,5 +1770,5 @@ Serializable]
 
 尽管存在这些问题，但 Java 集合仍是在日常工作中使用的基本工具，它可以使程序更简洁、更强大、更有效。你可能需要一段时间才能熟悉集合类库的某些方面，但我想你很快就会找到自己的路子，来获得和使用这个类库中的类。
 
-![](./images/map.png)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/map.png)
 

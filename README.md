@@ -62,7 +62,7 @@
 
 ### 原书资料
 
-![](./images/cover_small.jpg)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/cover_small.jpg)
 
 * 作者: Bruce Eckel
 * ISBN: 9780981872520
