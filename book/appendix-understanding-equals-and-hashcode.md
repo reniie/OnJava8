@@ -1,4 +1,4 @@
-# 附录:理解equals和hashCode方法
+# 附录：理解equals和hashCode方法
 
 假设有一个容器使用hash函数，当你创建一个放到这个容器时，你必须定义 **hashCode\(\)** 函数和 **equals\(\)** 函数。这两个函数一起被用于hash容器中的查询操作。
 
