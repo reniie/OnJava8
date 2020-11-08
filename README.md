@@ -1,12 +1,13 @@
 # 说明
 
-本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原仓库。
+本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原项目。
 
 * [进入 GitBook 阅读](https://renie.gitbook.io/on-java-8)
+* [PDF 版下载](https://github.com/reniie/OnJava8/blob/master/OnJava8.pdf)
+
+以下是原项目的部分描述。
 
 ## 《On Java 8》中文版
-
-以下内容是原仓库的描述。
 
 ### 书籍简介
 
@@ -90,4 +91,3 @@
 ### 开源协议
 
 本项目基于 MIT 协议开源。
-
