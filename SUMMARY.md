@@ -1,9 +1,9 @@
 # On Java 8 中文版
 
-* [说明](README.md#说明)
-* [封面](book/00-on-java-8.md#封面)
-* [前言](book/00-preface.md#前言)
-* [简介](book/00-introduction.md#简介)
+* [说明](README.md)
+* [封面](book/00-on-java-8.md)
+* [前言](book/00-preface.md)
+* [简介](book/00-introduction.md)
 * [第一章 对象的概念](book/01-what-is-an-object.md)
 * [第二章 安装Java和本书用例](book/02-installing-java-and-the-book-examples.md)
 * [第三章 万物皆对象](book/03-objects-everywhere.md)
