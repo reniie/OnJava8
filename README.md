@@ -4,7 +4,7 @@
 
 * [进入 GitBook 阅读](https://renie.gitbook.io/on-java-8)
 * [PDF 下载](https://github.com/reniie/OnJava8/blob/master/OnJava8.pdf)
-* [MOBI 下载](https://github.com/reniie/OnJava8/blob/master/OnJava8.mobi)
+* [MOBI 下载](https://github.com/reniie/OnJava8/blob/master/OnJava8.mobi)（排版不太好，不推荐）
 
 以下是原项目的部分描述。
 
