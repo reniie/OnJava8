@@ -2,9 +2,9 @@
 
 本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原项目。
 
-* [进入 GitBook 阅读](https://renie.gitbook.io/on-java-8)
-* [PDF 下载](https://github.com/reniie/OnJava8/blob/master/OnJava8.pdf)
-* [MOBI 下载](https://github.com/reniie/OnJava8/blob/master/OnJava8.mobi)（排版不太好，不推荐）
+* [进入 GitBook 阅读](https://onjava8.four2.site)
+* [PDF 下载](https://github.com/reniie/OnJava8/blob/publish/OnJava8.pdf)
+* [MOBI 下载](https://github.com/reniie/OnJava8/blob/publish/OnJava8.mobi)（排版不太好，不推荐）
 
 以下是原项目的部分描述。
 
@@ -12,9 +12,7 @@
 
 ### 书籍简介
 
-* 本书原作者为 \[美\] Bruce Eckel，即《Java 编程思想》的作者。
-* 本书是事实上的 《Java 编程思想》第五版。
-* 《Java 编程思想》第四版基于 JAVA **5** 版本；《On Java 8》 基于 JAVA **8** 版本。
+- 本书原作者为 [美] Bruce Eckel，即《Java 编程思想》的作者。
 
 ### 翻译进度
 
@@ -86,7 +84,7 @@
 1. 本书排版布局和翻译风格上参考**阮一峰**老师的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 2. 采用第一人称叙述。
 3. 由于中英行文差异，完全的逐字逐句翻译会很冗余啰嗦。所以本人在翻译过程中，去除了部分主题无关内容、重复描写。
-4. 译者在翻译中同时参考了谷歌、百度、有道翻译的译文以及《Java 编程思想》第四版中文版的部分内容（对其翻译死板，生造名词，语言精炼度差问题进行规避和改正）。最后结合译者自己的理解进行本地化，尽量做到专业和言简意赅，方便大家更好的理解学习。
+4. 译者在翻译中同时参考了谷歌、百度、有道翻译的译文。最后结合译者自己的理解进行本地化，尽量做到专业和言简意赅，方便大家更好的理解学习。
 5. 由于译者个人能力、时间有限，如有翻译错误和笔误的地方，还请大家批评指正！
 
 ### 开源协议
