@@ -1683,7 +1683,7 @@ Java 提供了许多保存对象的方法：
 
 浏览一下Java集合的简图（不包含抽象类或遗留组件）会很有帮助。这里仅包括在一般情况下会碰到的接口和类。（译者注：下图为原著PDF中的截图，可能由于未知原因存在问题。这里可参考译者绘制版）
 
-![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/simple-collection-taxonomy.png)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@publish/images/simple-collection-taxonomy.png)
 
 #### 简单集合分类
 

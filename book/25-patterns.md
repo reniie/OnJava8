@@ -159,7 +159,7 @@ Hello World!
 
 基类构造函数负责执行必要的初始化，然后启动运行应用程序的“engine”\(模板方法模式\)\(在GUI应用程序中，这个“engine”是主事件循环\)。框架使用者只提供 **customize1\(\)** 和 **customize2\(\)** 的定义，然后“应用程序”已经就绪运行。
 
-![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/designproxy.png)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@publish/images/designproxy.png)
 
 ### 面向实现
 

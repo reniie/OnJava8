@@ -1,6 +1,6 @@
 # 封面
 
-![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@master/images/cover.jpg)
+![](https://cdn.jsdelivr.net/gh/reniie/OnJava8@publish/images/cover.jpg)
 
 On Java 8
 
