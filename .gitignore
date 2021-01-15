@@ -10,17 +10,8 @@ node_modules
 # Book build output
 _book
 
-# eBook build output
-*.epub
-
 # OSX junk files
 .DS_Store
 ._*
 */.DS_Store
 */._*
-
-# IDEA
-/.idea/*
-
-# other
-mark.jpg
