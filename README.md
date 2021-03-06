@@ -1,5 +1,7 @@
 # 说明
 
+图灵社区将会出品《On Java 8》中文版：《Java 核心编程原理》，在 [**这里**](https://www.ituring.com.cn/book/2935) 查看进度。
+
 本项目 Fork 自 [LingCoder/OnJava8](https://github.com/lingcoder/OnJava8)，仅作为 GitBook 版本，如果想要贡献项目或者是加入相关组群交流，请移步原项目。
 
 * [进入 GitBook 阅读](https://onjava8.four2.site)
