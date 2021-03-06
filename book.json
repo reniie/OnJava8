@@ -1,0 +1,49 @@
+{
+    "title": "《On Java 8》中文版",
+    "author": "LingCoder",
+    "description": "",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+      "website": "styles/website.css",
+      "ebook": "styles/ebook.css",
+      "pdf": "styles/pdf.css",
+      "mobi": "styles/mobi.css",
+      "epub": "styles/epub.css"
+    },
+    "plugins": [
+      "splitter",
+      "search-pro",
+      "emphasize",
+      "toggle-chapters",
+      "katex",
+      "mermaid-gb3",
+      "advanced-emoji",
+      "include-codeblock",
+      "-sharing",
+      "-fontsettings",
+      "back-to-top-button",
+      "copy-code-button",
+      "cuav-chapters",
+      "heading-anchors",
+      "theme-fexa"
+    ],
+    "pluginsConfig": {
+      "theme-fexa":{
+        "search-placeholder":"输入关键字搜索",
+        "logo":"./images/cover_small.jpg",
+        "favicon": "./images/cover_small.jpg"
+      }
+    },
+    "variables": {
+      "themeFexa":{
+          "nav":[
+              {
+                  "url":"https://four2.site",
+                  "target":"_blank",
+                  "name": "Four2.site"
+              }
+          ]
+      }
+    }
+  }
